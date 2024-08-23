@@ -11,7 +11,7 @@ Hit me up if you need anything! ☕
 * 🌍  I'm based in Singapore & Malaysia
 * 🖥️  See my portfolio at [My Portfolio](http://austinkong.github.io/Website/)
 * ✉️  You can contact me at [konghoitec@gmail.com](mailto:konghoitec@gmail.com)
-* 🧠  I'm learning Java, React, Express, MongoDB
+* 🧠  I'm learning Java, React, Electron
 
 ### Socials
 
