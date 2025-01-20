@@ -4,12 +4,12 @@ Hi 👋 My name is Austin Kong
 Web Developer, Software Engineer & Game Developer, Student at NUS
 ----------------------------------------------
 
-I've been coding for more almost a decade now! I initially started in the Scratch "programming" language, then moved on to working on projects in Unity. Over the years, I've built many Unity games solo and in small teams. Nowadays, I'm focusing my efforts on learning fullstack and Java development. 
+I've been coding for more almost a decade now! I initially started in the Scratch "programming" language, then moved on to working on projects in Unity. Over the years, I've built many Unity games solo and in small teams. Nowadays, I'm focusing my efforts on building fullstack solutions with React and Express. 
 
 Hit me up if you need anything! ☕
 
 * 🌍  I'm based in Singapore & Malaysia
-* 🖥️  See my portfolio at [My Portfolio](http://austinkong.github.io/Website/)
+* 🖥️  See my portfolio at [My Portfolio](http://austinkong.me)
 * ✉️  You can contact me at [konghoitec@gmail.com](mailto:konghoitec@gmail.com)
 * 🧠  I'm learning Java, React, Express
 
