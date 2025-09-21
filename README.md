@@ -8,10 +8,9 @@ I've been coding for more almost a decade now! I initially started in the Scratc
 
 Hit me up if you need anything! ☕
 
-* 🌍  I'm based in Singapore & Malaysia
+* 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [My Portfolio](http://austinkong.me)
 * ✉️  You can contact me at [konghoitec@gmail.com](mailto:konghoitec@gmail.com)
-* 🧠  I'm learning Java, React, Express
 
 ### Socials
 
